@@ -1,2 +1,5 @@
 # 3rd-year-resources-2022-scheme-rvce
-This repository contains the study resources for some of the 3rd year courses at RV College of Engineering.
+# Contributors
+1. Ananth M Athreya [Github](https://github.com/AnanthMAthreya)
+# Introduction 
+This repository contains the resources of the following 3rd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
