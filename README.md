@@ -10,3 +10,13 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
 3. [Artificial Neural Networks and Deep Learning-AI253IA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI253IA-Artificial%20Neural%20Networks%20and%20deep%20learning(ANNDL))
 4. [Machine Learning Operations-AI254TA]()
 5. [Artificial Intelligence Integrated Software Engineering-AI255TBA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE)/Notes)
+# You can contribute
+## What can you contribute?
+- Any notes and question papers related to __third year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
+- The file size should not exceed 100 MB. If you want to add any textbook, then add only those chapters relevant to the course units must be added.
+## How to contribute?
+- If you are familiar with using GitHub:
+  + If you want to add materials to a course that is not there on this repo, create a folder and send a push request.
+  + Otherwise, just add files to the course folder and send a push request.
+  You will get credits.
+- If you are not familiar with using GitHub, then please send materials to ananthmathreya@gmail.com
