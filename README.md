@@ -27,4 +27,5 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
   + If you want to add materials to a course that is not there on this repo, create a folder and send a push request.
   + Otherwise, just add files to the course folder and send a push request.
 - If you are not familiar with using GitHub, then please refer [instruction manual](https://github.com/AnanthMAthreya/HowToContribute)
+
   You will get credits.
