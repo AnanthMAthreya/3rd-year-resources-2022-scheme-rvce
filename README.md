@@ -1,6 +1,7 @@
 # 3rd-year-resources-2022-scheme-rvce
 # Contributors
 1. Ananth M Athreya [Github](https://github.com/AnanthMAthreya)
+2. AIML RVCE 2022-2026 for MLOps tools presentations
 # Introduction 
 This repository contains the resources of 3rd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
 # Courses in this repository
@@ -14,6 +15,12 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
 ### For only AIML
 1. [Artificial Neural Networks and Deep Learning-AI253IA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI253IA-Artificial%20Neural%20Networks%20and%20deep%20learning(ANNDL))
 2. [Machine Learning Operations-AI254TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI254TA-Machine%20Learning%20Operations)
+
+__Blogs on MLOps tools__
+- [Unlocking Computer Vision Potential with Roboflow](https://aimlrvce.hashnode.dev/unlocking-computer-vision-potential-with-roboflow)
+- [LangChain & LangSmith for MLOps: Implementing A Legal Document Q&A Bot](https://kritikannan.medium.com/langchain-langsmith-for-mlops-implementing-a-legal-document-q-a-bot-01adcc8028fc)
+- [Getting Started: The Best MLOps Tools for Beginners](https://aimlrvce.hashnode.dev/getting-started-the-best-mlops-tools-for-beginners)
+
 3. [Artificial Intelligence Integrated Software Engineering-AI255TBA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE))
 ## 6th sem courses
 ### Only for CS, CD, CY and IS
@@ -28,4 +35,4 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
   + Otherwise, just add files to the course folder and send a push request.
 - If you are not familiar with using GitHub, then please refer [instruction manual](https://github.com/AnanthMAthreya/HowToContribute)
 
-  You will get credits.
+  __You will get credits.__
