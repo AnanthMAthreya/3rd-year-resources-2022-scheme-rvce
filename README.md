@@ -28,4 +28,4 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
   + Otherwise, just add files to the course folder and send a push request.
 - If you are not familiar with using GitHub, then please refer [instruction manual](https://github.com/AnanthMAthreya/HowToContribute)
 
-  You will get credits.
+  __You will get credits.__
