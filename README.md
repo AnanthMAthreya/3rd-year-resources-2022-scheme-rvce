@@ -15,6 +15,8 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
 ### For only AIML
 1. [Artificial Neural Networks and Deep Learning(ANNDL)-AI253IA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI253IA-Artificial%20Neural%20Networks%20and%20deep%20learning(ANNDL))
 2. [Machine Learning Operations(MLOps)-AI254TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI254TA-Machine%20Learning%20Operations)
+#### NPTEL elective for 5th sem
+For the study material for a few courses of nptel, [click here](https://github.com/AnanthMAthreya/NPTEL_Study_Materials.git)
 
 __Blogs on MLOps tools__
 - [Unlocking Computer Vision Potential with Roboflow](https://aimlrvce.hashnode.dev/unlocking-computer-vision-potential-with-roboflow)
