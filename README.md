@@ -7,6 +7,7 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
 # Courses in this repository
 ## Common courses for all branches
 1. [Principles of Management and Economics(POME)-HS251TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/HS251TA-Principles%20of%20Management%20and%20Economics)
+2. [Entrepreneurship and Intellectual Property Rights(EIPR)-HS361TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/HS361TA-Entrepreneurship%20%26%20Intellectual%20Property%20Rights(EIPR))
 ## 5th sem courses
 ### For AI, CS, CD, CY and IS
 1. [Database Management (DBMS)-CD252IA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/CD252IA-Database%20Management%20Systems(DBMS))
@@ -32,6 +33,10 @@ For the study material for a few courses of nptel, [click here](https://github.c
 ## 6th sem courses
 ### Only for CS, CD, CY and IS
 1. [Software Engineering With Agile Technologies-IS364TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE))-Only for units-1,2,3 (excluding component-based software engineering)
+### Only for AIML
+1. [Big Data Technologies(BDT)-AI362IA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI362IA-Big%20Data%20Technologies(BDT))
+2. [Natural Language Processing and Transformers(NLP)-AI363IA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI363IA-Natural%20Language%20processing%20and%20transformers(NLP))
+3. [Cloud Computing technology and architectures-AI364TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI364TA-Cloud%20Computing%20Technology%20%26%20Architectures)
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __third year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
