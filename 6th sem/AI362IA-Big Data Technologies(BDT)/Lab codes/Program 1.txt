@@ -1,0 +1,72 @@
+Record count class
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+public class RecordCount 
+{
+	public static void main(String[] args) throws Exception
+	{
+		if (args.length != 2) 
+		{
+			System.err.println("Usage: RecordCount <input path> <output path>");
+			System.exit(-1);
+		}
+		Configuration conf = new Configuration();
+		Job job = Job.getInstance(conf, "Record Count");
+		job.setJarByClass(RecordCount.class);
+		job.setMapperClass(RecordCountMapper.class);
+		job.setReducerClass(RecordCountReducer.class);
+		job.setOutputKeyClass(Text.class);
+		job.setOutputValueClass(IntWritable.class);
+		FileInputFormat.addInputPath(job, new Path(args[0]));
+		FileOutputFormat.setOutputPath(job, new Path(args[1]));
+		System.exit(job.waitForCompletion(true) ? 0 : 1);
+	}
+}
+
+Mapper class
+
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Mapper;
+import java.io.IOException;
+public class RecordCountMapper extends Mapper<LongWritable, Text, Text, IntWritable> 
+{
+	private final static IntWritable one = new IntWritable(1);
+	private final static Text countKey = new Text("count");
+	@Override
+	protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException 
+	{
+		context.write(countKey, one);
+	}
+}
+
+Reducer class
+
+import java.io.IOException;
+public class RecordCountReducer extends Reducer<Text, IntWritable, Text, IntWritable> 
+{
+	@Override
+	protected void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException,InterruptedException 
+	{
+		int sum = 0;
+		for (IntWritable value : values) 
+			sum += value.get();
+		context.write(key, new IntWritable(sum));
+	}
+}
+
+mkdir folder
+javac -classpath $(hadoop classpath) -d folder RecordCountMapper.java
+RecordCountReducer.java RecordCount.java
+jar -cvf recordcount.jar -C folder/ .
+hdfs dfs -mkdir /input
+hdfs dfs -put dataset124.csv /input/data.csv
+yarn jar recordcount.jar RecordCount /input /output
+hdfs dfs -cat /output/part-r-00000

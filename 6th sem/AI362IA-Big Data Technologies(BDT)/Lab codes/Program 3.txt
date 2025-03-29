@@ -1,0 +1,28 @@
+hdfs dfs -put dataset3.csv
+pig
+ratings = LOAD 'dataset3.csv' USING PigStorage(',') AS (movieId:int, title:chararray, userId:int, rating:float,
+genreId:int);
+grouped_ratings = GROUP ratings BY movieId;
+movie_rating_count = FOREACH grouped_ratings GENERATE group AS movieId, COUNT(ratings) AS numRatings;
+DUMP movie_rating_count;
+ratings = LOAD 'dataset3.csv USING PigStorage(',') AS (movieId:int, title:chararray, userId:int, rating:float,
+genreId:int);
+grouped_by_movie = GROUP ratings BY movieId;
+user_rating_count_by_movie = FOREACH grouped_by_movie {
+ users = ratings.userId;
+ GENERATE group AS movieId, users, COUNT(users) AS numRatings;
+};
+DUMP user_rating_count_by_movie;
+grouped_by_user = GROUP ratings BY userId;
+unique_users = FOREACH grouped_by_user GENERATE group AS userId;
+DUMP unique_users;
+high_rating = FILTER ratings BY rating > 3;
+grouped_high_rating = GROUP high_rating ALL;
+movie_count = FOREACH grouped_high_rating GENERATE COUNT(high_rating) AS numHIGHRATING;
+DUMP movie_count;
+grouped_data = GROUP data ALL;
+ratings_stats = FOREACH grouped_data GENERATE
+ MAX(data.rating) AS maxRating,
+ MIN(data.rating) AS minRating,
+AVG(data.rating) AS avgRating;
+DUMP ratings_stats;

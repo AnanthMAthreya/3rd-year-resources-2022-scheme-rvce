@@ -1,0 +1,87 @@
+Mapper class
+
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Mapper;
+import java.io.IOException;
+public class M1 extends Mapper<LongWritable, Text, Text, IntWritable> 
+{
+	private static final int MISSING = 9999;
+	@Override
+	protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException 
+	{
+		String line = value.toString();
+		String[] fields = line.split(",");
+		if (fields.length > 1 && fields[2]!="Year") 
+		{
+			try 
+			{
+				int temperature = Integer.parseInt(fields[3]);
+				context.write(new Text(fields[2]), new IntWritable(temperature));
+			} 
+			catch (NumberFormatException e) 
+			{
+			}
+		}
+	}
+}
+
+Reducer class
+
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Reducer;
+import java.io.IOException;
+public class R1 extends Reducer<Text, IntWritable, Text, IntWritable> 
+{
+	@Override
+	protected void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException,InterruptedException 
+	{
+		int maxTemperature = Integer.MIN_VALUE;
+		for (IntWritable value : values) 
+			maxTemperature = Math.max(maxTemperature, value.get());
+		context.write(key, new IntWritable(maxTemperature));
+	}
+}
+
+Driver class
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+public class Driver 
+{
+	public static void main(String[] args) throws Exception 
+	{
+		if (args.length != 2) 
+		{
+			System.err.println("Usage: MaxTemperature <input path> <output path>");
+			System.exit(-1);
+		}
+		Configuration conf = new Configuration();
+		Job job = Job.getInstance(conf, "Max Temperature");
+		job.setJarByClass(Driver.class);
+		job.setMapperClass(M1.class);
+		job.setReducerClass(R1.class);
+		job.setOutputKeyClass(Text.class);
+		job.setOutputValueClass(IntWritable.class);
+		FileInputFormat.addInputPath(job, new Path(args[0]));
+		FileOutputFormat.setOutputPath(job, new Path(args[1]));
+		System.exit(job.waitForCompletion(true) ? 0 : 1);
+	}
+}
+
+mkdir folder
+javac -classpath $(hadoop classpath) -d folder RecordCountMapper.java
+RecordCountReducer.java RecordCount.java
+jar -cvf recordcount.jar -C folder/ .
+hdfs dfs -mkdir /input
+hdfs dfs -put dataset124.csv /input/data.csv
+yarn jar recordcount.jar RecordCount /input /output
+hdfs dfs -cat /output/part-r-00000
+hadoop job -kill job_1722320114860_0004
