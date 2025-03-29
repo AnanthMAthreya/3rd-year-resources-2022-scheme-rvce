@@ -38,6 +38,8 @@ For the study material for a few courses of nptel, [click here](https://github.c
 2. [Natural Language Processing and Transformers(NLP)-AI363IA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI363IA-Natural%20Language%20processing%20and%20transformers(NLP))
 3. [Cloud Computing technology and architectures-AI364TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI364TA-Cloud%20Computing%20Technology%20%26%20Architectures)
 4. [Generative Artificial Intelligence(Gen AI)-AI365TDD](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI365TDD-Generative%20Artificial%20Intelligence(GenAI))
+### Institutional Electives
+1. [Elements of Financial Management-IM266TEQ](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Institutional%20Electives/IM266TEQ-Elements%20of%20Financial%20Management)
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __third year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
