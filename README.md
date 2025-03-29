@@ -1,7 +1,8 @@
 # 3rd-year-resources-2022-scheme-rvce
 # Contributors
-1. Ananth M Athreya [Github](https://github.com/AnanthMAthreya)
-2. AIML RVCE 2022-2026 for MLOps tools presentations
+1. Master Contributor-Swastik Agrawal [Linkedin](https://www.linkedin.com/in/swastik-agarwal-797132291/)
+2. Ananth M Athreya [Github](https://github.com/AnanthMAthreya)
+3. AIML RVCE 2022-2026 for MLOps tools presentations
 # Introduction 
 This repository contains the resources of 3rd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
 # Courses in this repository
