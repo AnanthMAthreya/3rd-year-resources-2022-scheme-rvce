@@ -48,8 +48,11 @@ public class RecordCountMapper extends Mapper<LongWritable, Text, Text, IntWrita
 }
 
 Reducer class
-
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
 import java.io.IOException;
+import org.apache.hadoop.mapreduce.Reducer;
+
 public class RecordCountReducer extends Reducer<Text, IntWritable, Text, IntWritable> 
 {
 	@Override
