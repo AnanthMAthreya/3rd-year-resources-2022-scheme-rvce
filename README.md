@@ -7,7 +7,7 @@
 This repository contains the resources of 3rd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
 # Courses in this repository
 ## Common courses for all branches
-1. [Principles of Management and Economics(POME)-HS251TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/HS251TA-Principles%20of%20Management%20and%20Economics)
+1. [Principles of Management and Economics(POME)-HS251TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/HS251TA-Principles%20of%20Management%20and%20Economics(POME))
 2. [Entrepreneurship and Intellectual Property Rights(EIPR)-HS361TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/HS361TA-Entrepreneurship%20%26%20Intellectual%20Property%20Rights(EIPR))
 ## 5th sem courses
 ### For AI, CS, CD, CY and IS
