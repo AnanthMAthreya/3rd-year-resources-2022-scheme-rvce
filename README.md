@@ -21,7 +21,7 @@ Best playlist for DBMS: [Gatesmashers](https://youtube.com/playlist?list=PLxCzCO
 
 [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLhwvOw9qAuDc-jRuVrTJWVHS2gE2uWGK2)
 
-2. [Machine Learning Operations(MLOps)-AI254TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI254TA-Machine%20Learning%20Operations)
+2. [Machine Learning Operations(MLOps)-AI254TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI254TA-Machine%20Learning%20Operations(MLOps))
    
 __Blogs on MLOps tools__
 - [Unlocking Computer Vision Potential with Roboflow](https://aimlrvce.hashnode.dev/unlocking-computer-vision-potential-with-roboflow)
