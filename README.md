@@ -7,7 +7,7 @@
 This repository contains the resources of 3rd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
 # Courses in this repository
 ## Common courses for all branches
-1. [Principles of Management and Economics(POME)-HS251TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/HS251TA-Principles%20of%20Management%20and%20Economics)
+1. [Principles of Management and Economics(POME)-HS251TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/HS251TA-Principles%20of%20Management%20and%20Economics(POME))
 2. [Entrepreneurship and Intellectual Property Rights(EIPR)-HS361TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/HS361TA-Entrepreneurship%20%26%20Intellectual%20Property%20Rights(EIPR))
 ## 5th sem courses
 ### For AI, CS, CD, CY and IS
@@ -21,7 +21,7 @@ Best playlist for DBMS: [Gatesmashers](https://youtube.com/playlist?list=PLxCzCO
 
 [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLhwvOw9qAuDc-jRuVrTJWVHS2gE2uWGK2)
 
-2. [Machine Learning Operations(MLOps)-AI254TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI254TA-Machine%20Learning%20Operations)
+2. [Machine Learning Operations(MLOps)-AI254TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI254TA-Machine%20Learning%20Operations(MLOps))
    
 __Blogs on MLOps tools__
 - [Unlocking Computer Vision Potential with Roboflow](https://aimlrvce.hashnode.dev/unlocking-computer-vision-potential-with-roboflow)
@@ -33,7 +33,7 @@ __Blogs on MLOps tools__
 For the study material for a few courses of nptel, [click here](https://github.com/AnanthMAthreya/NPTEL_Study_Materials.git)
 ## 6th sem courses
 ### Only for CS, CD, CY and IS
-1. [Software Engineering With Agile Technologies-IS364TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE))-Only for units-1,2,3 (excluding component-based software engineering)
+1. [Software Engineering With Agile Technologies-IS364TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE))-Only for units-1,2,3,5(Only first topic in the syllabus. The sub-units in the repo for each units may vary, so please cross-verify with the syllabus of AISE for AIML branch) 
 ### Only for AIML
 1. [Big Data Technologies(BDT)-AI362IA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI362IA-Big%20Data%20Technologies(BDT))
 2. [Natural Language Processing and Transformers(NLP)-AI363IA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI363IA-Natural%20Language%20processing%20and%20transformers(NLP))
