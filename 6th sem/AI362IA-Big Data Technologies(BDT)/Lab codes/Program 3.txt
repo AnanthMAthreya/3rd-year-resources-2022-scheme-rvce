@@ -1,4 +1,3 @@
-Program 3
 hdfs dfs -put dataset3.csv /
 pig
 ratings = LOAD 'dataset3.csv' USING PigStorage(',') AS (movieId:int, title:chararray, userId:int, rating:float,genreId:int);
@@ -10,8 +9,6 @@ genreId:int);
 grouped_by_movie = GROUP ratings BY movieId;
 user_rating_count_by_movie = FOREACH grouped_by_movie {users = ratings.userId; GENERATE group AS movieId, users, COUNT(users) AS numRatings;};
 DUMP user_rating_count_by_movie;
-
-Program 4
 grouped_by_user = GROUP ratings BY userId;
 unique_users = FOREACH grouped_by_user GENERATE group AS userId;
 DUMP unique_users;
