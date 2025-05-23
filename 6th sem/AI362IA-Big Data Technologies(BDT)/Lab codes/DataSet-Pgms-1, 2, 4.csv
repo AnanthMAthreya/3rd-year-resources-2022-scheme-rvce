@@ -1,0 +1,601 @@
+City Name,Location,Year,Temperature,State,Gas Present ,Quantity of Gas
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Mumbai,Residential ,2017,43,Maharastra,N02,12
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Hubli,Residential ,1977,33,WestBengal,N02,12
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Harihara,Monitoring,2013,32,WestBengal,N02,12
+Bagalkota,Monitoring,2016,45,AndhraPradesh,S02,13
+Bijapura,Industrial,2017,44,Kerala,N02,14
+Gulbarga,Commercial,2019,43,Maharastra,S02,15
+Chickballapura,Residential ,2013,42,AndhraPradesh,S02,12
+Kolar,Monitoring,2015,40,Bihar,N02,13
+Bangarpet,Industrial,1978,20,WestBengal,S02,14
+Davangere,Monitoring,1962,22,AndhraPradesh,N02,15
+Hassan,Residential ,1973,22,Tamilnadu,S02,12
+Mangalore,Industrial,1954,24,Maharastra,S02,12
+Dharwad,Monitoring,1953,24,Karnataka,N02,12
+Belgaum,Residential ,1943,27,Bihar,S02,14
+Raichur,Industrial,1944,28,WestBengal,N02,15
+Chitradurga,Monitoring,1945,26,AndhraPradesh,S02,12
+Haveri,Residential ,1987,25,Tamilnadu,S02,12
+Harihara,Industrial,1988,23,Maharastra,N02,13
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Mumbai,Residential ,2017,43,Maharastra,N02,12
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Hubli,Residential ,1977,33,WestBengal,N02,12
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Mumbai,Residential ,2017,43,Maharastra,N02,12
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+#NAME?,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Hubli,Residential ,1977,33,WestBengal,N02,12
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Mumbai,Residential ,2017,43,Maharastra,N02,12
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Hubli,Residential ,1977,33,WestBengal,N02,12
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Bangalore,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Hubli,Residential ,1977,33,WestBengal,N02,12
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Harihara,Monitoring,2013,32,WestBengal,N02,12
+Bagalkota,Monitoring,2016,45,AndhraPradesh,S02,13
+Bijapura,Industrial,2017,44,Kerala,N02,14
+Gulbarga,Commercial,2019,43,Maharastra,S02,15
+Chickballapura,Residential ,2013,42,AndhraPradesh,S02,12
+Kolar,Monitoring,2015,40,Bihar,N02,13
+Bangarpet,Industrial,1978,20,WestBengal,S02,14
+Davangere,Monitoring,1962,22,AndhraPradesh,N02,15
+Hassan,Residential ,1973,22,Tamilnadu,S02,12
+Mangalore,Industrial,1954,24,Maharastra,S02,12
+Dharwad,Monitoring,1953,24,Karnataka,N02,12
+Belgaum,Residential ,1943,27,Bihar,S02,14
+Raichur,Industrial,1944,28,WestBengal,N02,15
+Chitradurga,Monitoring,1945,26,AndhraPradesh,S02,12
+Haveri,Residential ,1987,25,Tamilnadu,S02,12
+Harihara,Industrial,1988,23,Maharastra,N02,13
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Mumbai,Residential ,2017,43,Maharastra,N02,12
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Mumbai,Residential ,2017,43,Maharastra,N02,12
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Hubli,Residential ,1977,33,WestBengal,N02,12
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Mumbai,Residential ,2017,43,Maharastra,N02,12
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Harihara,Industrial,1988,23,Maharastra,N02,13
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Mumbai,Residential ,2017,43,Maharastra,N02,12
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Hubli,Residential ,1977,33,WestBengal,N02,12
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Mumbai,Residential ,2017,43,Maharastra,N02,12
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Hubli,Residential ,1977,33,WestBengal,N02,12
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Dharwad,Monitoring,2001,34,Bihar,S02,12
+Bangalore,Industrial,2000,45,Karnataka,N02,10
+Chennai,Commercial,2018,34,Tamilnadu,S02,11
+Mumbai,Residential ,2017,43,Maharastra,N02,12
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Harihara,Industrial,1988,23,Maharastra,N02,13
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Bangalore,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Hubli,Residential ,1977,33,WestBengal,N02,12
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Harihara,Monitoring,2013,32,WestBengal,N02,12
+Bagalkota,Monitoring,2016,45,AndhraPradesh,S02,13
+Bijapura,Industrial,2017,44,Kerala,N02,14
+Gulbarga,Commercial,2019,43,Maharastra,S02,15
+Chickballapura,Residential ,2013,42,AndhraPradesh,S02,12
+Kolar,Monitoring,2015,40,Bihar,N02,13
+Bangarpet,Industrial,1978,20,WestBengal,S02,14
+Davangere,Monitoring,1962,22,AndhraPradesh,N02,15
+Hassan,Residential ,1973,22,Tamilnadu,S02,12
+Mangalore,Industrial,1954,24,Maharastra,S02,12
+Dharwad,Monitoring,1953,24,Karnataka,N02,12
+Belgaum,Residential ,1943,27,Bihar,S02,14
+Raichur,Industrial,1944,28,WestBengal,N02,15
+Chitradurga,Monitoring,1945,26,AndhraPradesh,S02,12
+Haveri,Residential ,1987,25,Tamilnadu,S02,12
+Harihara,Industrial,1988,23,Maharastra,N02,13
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Kolar,Monitoring,1977,28,AndhraPradesh,S02,12
+Bangarpet,Industrial,1988,29,AndhraPradesh,S02,11
+Davangere,Commercial,1999,30,Bihar,N02,11
+Hassan,Residential ,2003,32,WestBengal,S02,11
+Mangalore,Industrial,2004,33,AndhraPradesh,N02,12
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hubli,Industrial,1998,45,Karnataka,S02,12
+Calcutta,Commercial,1998,27,Bihar,N02,13
+Calcutta,Residential ,2010,23,WestBengal,S02,13
+Hyderabad,Industrial,2000,21,AndhraPradesh,N02,12
+Trivrandrum,Commercial,1999,23,Kerala,S02,14
+Haveri,Residential ,1987,22,Karnataka,N02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Cochin,Industrial,1996,30,Kerala,S02,25
+Pune,Monitoring,1994,35,Maharastra,N02,22
+Hassan,Residential ,2001,37,Karnataka,S02,10
+Mangalore,Commercial,2010,34,Bihar,S02,12
+Bangalore,Residential ,2016,38,WestBengal,N02,9
+Machlipatnam,Monitoring,2017,36,AndhraPradesh,S02,10
+Tumkur,Commercial,1976,32,Bihar,S02,11
+Hubli,Residential ,1977,33,WestBengal,N02,12
+Dharwad,Monitoring,1974,36,AndhraPradesh,S02,13
+Belgaum,Monitoring,2019,32,Tamilnadu,S02,14
+Raichur,Commercial,2014,33,Maharastra,N02,15
+Chitradurga,Residential ,2016,35,Karnataka,S02,16
+Haveri,Monitoring,2020,31,Bihar,S02,11
+Bagalkota,Commercial,1976,22,Karnataka,S02,12
+Bijapura,Monitoring,1978,26,Bihar,N02,14
+Gulbarga,Industrial,1976,27,WestBengal,S02,15
+Salem,Industrial,1976,45,Tamilnadu,S02,22
+Bandra,Monitoring,1967,33,Maharastra,N02,20
+Bijapura,Residential ,2013,22,Karnataka,S02,24
+Gulbarga,Industrial,2013,21,Bihar,S02,23
+Chickballapura,Commercial,2012,19,WestBengal,N02,23
+Securandabad,Residential ,2012,30,AndhraPradesh,S02,24
+Vijayapura,Residential ,2016,38,Karnataka,N02,9
