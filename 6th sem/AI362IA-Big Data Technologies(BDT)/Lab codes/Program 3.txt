@@ -16,9 +16,6 @@ high_rating = FILTER ratings BY rating > 3;
 grouped_high_rating = GROUP high_rating ALL;
 movie_count = FOREACH grouped_high_rating GENERATE COUNT(high_rating) AS numHIGHRATING;
 DUMP movie_count;
-grouped_data = GROUP data ALL;
-ratings_stats = FOREACH grouped_data GENERATE
- MAX(data.rating) AS maxRating,
- MIN(data.rating) AS minRating,
-AVG(data.rating) AS avgRating;
+grouped_data = GROUP ratings ALL;
+ratings_stats = FOREACH grouped_data GENERATE MAX(data.rating) AS maxRating, MIN(data.rating) AS minRating, AVG(data.rating) AS avgRating;
 DUMP ratings_stats;
