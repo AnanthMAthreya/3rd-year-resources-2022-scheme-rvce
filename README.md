@@ -5,6 +5,12 @@
 3. AIML RVCE 2022-2026 for MLOps tools presentations
 # Introduction 
 This repository contains the resources of 3rd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
+# Syllabus Books
+1. [AI](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/blob/main/Syllabus%20books/AI.pdf)
+2. [CD](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/blob/main/Syllabus%20books/CD.pdf)
+3. [CS](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/blob/main/Syllabus%20books/CS.pdf)
+4. [CY](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/blob/main/Syllabus%20books/CY.pdf)
+5. [IS](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/blob/main/Syllabus%20books/IS.pdf)
 # Courses in this repository
 ## Common courses for all branches
 1. [Principles of Management and Economics(POME)-HS251TA](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/HS251TA-Principles%20of%20Management%20and%20Economics(POME))
