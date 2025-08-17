@@ -58,8 +58,9 @@ For the study material for a few courses of nptel, [click here](https://github.c
 ### Institutional Electives
 |**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
-|1|Elements of Financial Management|IM266TEQ|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Institutional%20Electives/IM266TEQ-Elements%20of%20Financial%20Management)|
-|2|Mathematical Modelling|MA266TEU|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Institutional%20Electives/MA266TEU-Mathematical%20Modelling)|
+|1|Elements of Financial Management(EFM)|IM266TEQ|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Institutional%20Electives/IM266TEQ-Elements%20of%20Financial%20Management)|
+|2|Mathematical Modelling(MM)|MA266TEU|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Institutional%20Electives/MA266TEU-Mathematical%20Modelling)|
+|3|Intelligence Transport Systems(ITS)|CV266TEE|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Institutional%20Electives/CV266TEE-Intelligence%20Transport%20Systems)|
 
 # Interdisciplinary Project
 Project template [Github](https://github.com/rvce-latex/Project-Report-Template)
