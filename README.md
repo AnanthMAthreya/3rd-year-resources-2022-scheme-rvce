@@ -3,7 +3,7 @@
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
 |1|Swastik Agrawal|-|[🔗](https://www.linkedin.com/in/swastik-agarwal-797132291/)|
-|2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|-|
+|2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|[🔗](https://www.linkedin.com/in/ananth-m-athreya-963262287/)|
 |3|Labdhi Ranka|-|[🔗](https://www.linkedin.com/in/labdhi-ranka/)|
 |4|AIML RVCE 2022-2026 for MLOps tools presentations|-|-|
 # You can contribute
