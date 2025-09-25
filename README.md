@@ -64,3 +64,5 @@ For the study material for a few courses of nptel, [click here](https://github.c
 
 # Interdisciplinary Project
 Project template [Github](https://github.com/rvce-latex/Project-Report-Template)
+# See more
+- [4th year resources](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE)
