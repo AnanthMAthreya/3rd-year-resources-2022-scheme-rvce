@@ -31,9 +31,9 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
 |-|-|-|-|-|
 |1|Database Management (DBMS)|CD252IA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/CD252IA-Database%20Management%20Systems(DBMS))|Best playlist for DBMS:Gatesmashers [🔗](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=GM6S3NqyJG1PFpXA)|
 ### For only CS, CD, CY and  IS
-|**Sl no.**|**Course Name**|**Course code**|**Github**|
-|-|-|-|-|
-|1|Artificial Intelligence and Machine Learning(AIML)|IS353IA|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)|
+|**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
+|-|-|-|-|-|
+|1|Artificial Intelligence and Machine Learning(AIML)|IS353IA|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)|<table><tr><td>AI Playlist [🔗](https://youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR&si=NBG4MTgfWcYzbWnX)</td></tr><tr><td>ML Playlist [🔗](https://youtube.com/playlist?list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&si=RWONPm3nUZ16kGZ-)</td></tr></table>|
 ### For only AIML
 |**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
 |-|-|-|-|-|
