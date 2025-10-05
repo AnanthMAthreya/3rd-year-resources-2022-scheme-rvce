@@ -3,7 +3,7 @@
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
 |1|Swastik Agrawal|-|[🔗](https://www.linkedin.com/in/swastik-agarwal-797132291/)|
-|2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|-|
+|2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|[🔗](https://www.linkedin.com/in/ananth-m-athreya-963262287/)|
 |3|Labdhi Ranka|-|[🔗](https://www.linkedin.com/in/labdhi-ranka/)|
 |4|AIML RVCE 2022-2026 for MLOps tools presentations|-|-|
 # You can contribute
@@ -31,9 +31,9 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
 |-|-|-|-|-|
 |1|Database Management (DBMS)|CD252IA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/CD252IA-Database%20Management%20Systems(DBMS))|Best playlist for DBMS:Gatesmashers [🔗](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=GM6S3NqyJG1PFpXA)|
 ### For only CS, CD, CY and  IS
-|**Sl no.**|**Course Name**|**Course code**|**Github**|
-|-|-|-|-|
-|1|Artificial Intelligence and Machine Learning(AIML)|IS353IA|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)|
+|**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
+|-|-|-|-|-|
+|1|Artificial Intelligence and Machine Learning(AIML)|IS353IA|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)|<table><tr><td>AI Playlist [🔗](https://youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR&si=NBG4MTgfWcYzbWnX)</td></tr><tr><td>ML Playlist [🔗](https://youtube.com/playlist?list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&si=RWONPm3nUZ16kGZ-)</td></tr></table>|
 ### For only AIML
 |**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
 |-|-|-|-|-|
@@ -64,3 +64,5 @@ For the study material for a few courses of nptel, [click here](https://github.c
 
 # Interdisciplinary Project
 Project template [Github](https://github.com/rvce-latex/Project-Report-Template)
+# See more
+- [4th year resources](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE)
