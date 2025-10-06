@@ -29,7 +29,7 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
 ### For AI, CS, CD, CY and IS
 |**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
 |-|-|-|-|-|
-|1|Database Management (DBMS)|CD252IA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/CD252IA-Database%20Management%20Systems(DBMS))|Best playlist for DBMS:Gatesmashers [🔗](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=GM6S3NqyJG1PFpXA)|
+|1|Database Management (DBMS)|CD252IA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/CD252IA-Database%20Management%20Systems(DBMS))|<ul><li>Best playlist for DBMS:Gatesmashers [🔗](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=GM6S3NqyJG1PFpXA)</li><li>Notes for the Gatesmashers course [🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/CD252IA-Database%20Management%20Systems(DBMS)/Gatesmashers)</li></ul>|
 ### For only CS, CD, CY and  IS
 |**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
 |-|-|-|-|-|
