@@ -6,6 +6,7 @@
 |2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|[🔗](https://www.linkedin.com/in/ananth-m-athreya-963262287/)|
 |3|Labdhi Ranka|-|[🔗](https://www.linkedin.com/in/labdhi-ranka/)|
 |4|AIML RVCE 2022-2026 for MLOps tools presentations|-|-|
+|5|Anant Tewari|[🔗](https://github.com/ananttewari)|[🔗](https://www.linkedin.com/in/anant-tewari-286649257/)|
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __third year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
