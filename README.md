@@ -1,4 +1,6 @@
 # 3rd-year-resources-2022-scheme-rvce
+# Recent updates
+* Added Notes and QP of MAI [Go Here](#electives)
 # Contributors
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
@@ -7,6 +9,8 @@
 |3|Labdhi Ranka|-|[🔗](https://www.linkedin.com/in/labdhi-ranka/)|
 |4|AIML RVCE 2022-2026 for MLOps tools presentations|-|-|
 |5|Anant Tewari|[🔗](https://github.com/ananttewari)|[🔗](https://www.linkedin.com/in/anant-tewari-286649257/)|
+|6|Kota Vishnu Datta|-|[🔗](https://www.linkedin.com/in/kotavishnudatta/)|
+|7|Boru Harshavardhan Reddy|-|[🔗](https://www.linkedin.com/in/bharshavardhanreddy/)|
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __third year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
@@ -37,11 +41,16 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
 |1|Artificial Intelligence and Machine Learning(AIML)|IS353IA|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)|<table><tr><td>AI Playlist [🔗](https://youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR&si=NBG4MTgfWcYzbWnX)</td></tr><tr><td>ML Playlist [🔗](https://youtube.com/playlist?list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&si=RWONPm3nUZ16kGZ-)</td></tr></table>|
 |2|Theory of computation(TOC)|CS354TA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/Theory%20of%20computation)|KNotesCentral [🔗](https://drive.google.com/drive/folders/1R6SE95wmwiw1sSCT8muTsMrkuwbvcouh)|
 ### For only AIML
+#### Core Courses
 |**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
 |-|-|-|-|-|
 |1|Artificial Neural Networks and Deep Learning(ANNDL)|AI253IA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI253IA-Artificial%20Neural%20Networks%20and%20deep%20learning(ANNDL))|Deep Learning Playlist [🔗](https://www.youtube.com/playlist?list=PLhwvOw9qAuDc-jRuVrTJWVHS2gE2uWGK2)|
 |2|Machine Learning Operations(MLOps)|AI254TA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI254TA-Machine%20Learning%20Operations(MLOps))|__Blogs on MLOps tools__<br><ul><li>Unlocking Computer Vision Potential with Roboflow [🔗](https://aimlrvce.hashnode.dev/unlocking-computer-vision-potential-with-roboflow)</li><li>LangChain & LangSmith for MLOps: Implementing A Legal Document Q&A Bot [🔗](https://kritikannan.medium.com/langchain-langsmith-for-mlops-implementing-a-legal-document-q-a-bot-01adcc8028fc)</li><li>Getting Started: The Best MLOps Tools for Beginners [🔗](https://aimlrvce.hashnode.dev/getting-started-the-best-mlops-tools-for-beginners)</li></ul>|
-|3|Artificial Intelligence Integrated Software Engineering(AISE)|AI255TBA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE))|-|
+#### Electives
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
+|-|-|-|-|
+|1|Artificial Intelligence Integrated Software Engineering(AISE)|AI255TBA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE))|
+|2|Mathematical Algorithms For Artificial Intelligence(MAI)|AI255TBC|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/Mathematical%20Algorithms%20for%20AI)|
 
 ### NPTEL elective for 5th sem
 For the study material for a few courses of nptel, [click here](https://github.com/AnanthMAthreya/NPTEL_Study_Materials.git)
