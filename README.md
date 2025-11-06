@@ -6,6 +6,7 @@
 |2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|[🔗](https://www.linkedin.com/in/ananth-m-athreya-963262287/)|
 |3|Labdhi Ranka|-|[🔗](https://www.linkedin.com/in/labdhi-ranka/)|
 |4|AIML RVCE 2022-2026 for MLOps tools presentations|-|-|
+|5|Anant Tewari|[🔗](https://github.com/ananttewari)|[🔗](https://www.linkedin.com/in/anant-tewari-286649257/)|
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __third year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
@@ -34,7 +35,7 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
 |**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
 |-|-|-|-|-|
 |1|Artificial Intelligence and Machine Learning(AIML)|IS353IA|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)|<table><tr><td>AI Playlist [🔗](https://youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR&si=NBG4MTgfWcYzbWnX)</td></tr><tr><td>ML Playlist [🔗](https://youtube.com/playlist?list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&si=RWONPm3nUZ16kGZ-)</td></tr></table>|
-|2|Theory of computation|CS354TA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/Theory%20of%20computation)|KNotesCentral [🔗](https://drive.google.com/drive/folders/1R6SE95wmwiw1sSCT8muTsMrkuwbvcouh)|
+|2|Theory of computation(TOC)|CS354TA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/Theory%20of%20computation)|KNotesCentral [🔗](https://drive.google.com/drive/folders/1R6SE95wmwiw1sSCT8muTsMrkuwbvcouh)|
 ### For only AIML
 |**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
 |-|-|-|-|-|
