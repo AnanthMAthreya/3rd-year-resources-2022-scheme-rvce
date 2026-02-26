@@ -25,6 +25,7 @@
   + If you want to add materials to a course that is not there on this repo, create a folder and send a push request.
   + Otherwise, just add files to the course folder and send a push request.
 - If you are not familiar with using GitHub, then please refer [instruction manual](https://github.com/AnanthMAthreya/HowToContribute)
+- If you don't want to use GitHub, then please fill this form [Form link](https://forms.gle/GR2N4dKWF2NwvwiK8)
 
   __You will get credits.__
 # Introduction 
