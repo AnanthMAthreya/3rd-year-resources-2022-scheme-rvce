@@ -1,10 +1,10 @@
 # 3rd-year-resources-2022-scheme-rvce
 # Recent updates
+* Added 2023 batch's SEE paper of POME [Go here](#common-courses-for-all-branches)
 * Added 2023 batch's SEE paper of ANNDL, DBMS, MLOps, AISE [DBMS](#for-ai-cs-cd-cy-and-is) [ANNDL,MLOps,AISE](#for-only-aiml)
 * Added 2022 batch's CIE-3 paper of MLOps [Go Here](#for-only-aiml)
 * Added 2022 batch's CIE-2 paper of AISE [Go here](#electives)
 * Added 2023 batch's CIE-1 paper of POME and MLOps [POME](#common-courses-for-all-branches) [MLOps](#core-courses)
-* Added Notes and QP of MAI [Go Here](#electives)
 # Contributors
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
