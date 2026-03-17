@@ -65,6 +65,11 @@ For the study material for a few courses of nptel, [click here](https://github.c
 |**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
 |1|Software Engineering With Agile Technologies|IS364TA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE)) Only for units-1,2,3,5(Only first topic in the syllabus. The sub-units in the repo for each units may vary, so please cross-verify with the syllabus of AISE for AIML branch)|
+### Only for AI,CS,IS and CD
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
+|-|-|-|-|
+|1|Generative Artificial Intelligence(Gen AI)|AI365TDD|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI365TDD-Generative%20Artificial%20Intelligence(GenAI))|
+
 ### Only for AIML
 |**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
 |-|-|-|-|-|
