@@ -1,0 +1,38 @@
+CIE 2 expected Questions
+
+What are the four main transformations used in each AES encryption round?
+
+
+Write down the stages of AES key expansion for encryption rounds?
+
+
+
+What is the primary difference between block ciphers and stream ciphers in symmetric-key encryption? b
+
+
+
+How does the Rabin cryptosystem ensure security, and what is a notable drawback?
+
+
+
+Define the different classes of authentication functions?
+
+
+
+Part-B
+
+
+
+Explain the use of modern block ciphers and stream ciphers in symmetric-key encryption. Highlight their operational differences and typical applications.
+
+
+Describe Rabin and ElGamal cryptosystems, focusing on their foundational principles and differences in security assumptions.
+
+
+ONE RSA problem
+
+
+
+Discuss the essential requirements for message authentication in secure communication systems. Explain how these requirements help in preventing various security threats such as masquerade, message modification, and replay attacks.
+
+Describe the different classes of authentication functions used in cryptographic systems. Compare and contrast message encryption, message authentication codes (MACs), and hash functions in terms
