@@ -1,10 +1,10 @@
 # 3rd-year-resources-2022-scheme-rvce
 # Recent updates
+* Added notes for SE,CD, NPS, CNS [Go here for SE, CD](#core-courses-1) [Go here for NPS](#only-for-cs) [Go here for CNS](#only-for-cs-1)
 * Added 2023 batch's SEE paper of POME [Go here](#common-courses-for-all-branches)
 * Added 2023 batch's SEE paper of ANNDL, DBMS, MLOps, AISE [DBMS](#for-ai-cs-cd-cy-and-is) [ANNDL,MLOps,AISE](#for-only-aiml)
 * Added 2022 batch's CIE-3 paper of MLOps [Go Here](#for-only-aiml)
 * Added 2022 batch's CIE-2 paper of AISE [Go here](#electives)
-* Added 2023 batch's CIE-1 paper of POME and MLOps [POME](#common-courses-for-all-branches) [MLOps](#core-courses)
 # Contributors
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
@@ -61,22 +61,37 @@ This repository contains the resources of 3rd year courses in the 2022 scheme of
 ### NPTEL elective for 5th sem
 For the study material for a few courses of nptel, [click here](https://github.com/AnanthMAthreya/NPTEL_Study_Materials.git)
 ## 6th sem courses
-### Only for CS, CD, CY and IS
+### Core courses
+#### Only for CS, CD, CY and IS
 |**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
-|1|Software Engineering With Agile Technologies|IS364TA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE)) Only for units-1,2,3,5(Only first topic in the syllabus. The sub-units in the repo for each units may vary, so please cross-verify with the syllabus of AISE for AIML branch)|
-### Only for AI,CS,IS and CD
+|1|Software Engineering With Agile Technologies|IS364TA|<ul><li>[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE)) Only for units-1,2,3,5(Only first topic in the syllabus. The sub-units in the repo for each units may vary, so please cross-verify with the syllabus of AISE for AIML branch)</li><li>[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Software%20Engineering%20with%20Agile%20Methodologies%20) Only for units-1,2,4,5, and question papers</li></ul>|
+#### Only for CS, IS
 |**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
-|1|Generative Artificial Intelligence(Gen AI)|AI365TDD|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI365TDD-Generative%20Artificial%20Intelligence(GenAI))|
-
-### Only for AIML
+|1|Compiler Design(CD)|CS361IA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Compiler%20design)|
+#### Only for AIML
 |**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
 |-|-|-|-|-|
 |1|Big Data Technologies(BDT)|AI362IA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI362IA-Big%20Data%20Technologies(BDT))|-|
 |2|Natural Language Processing and Transformers(NLP)|AI363IA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI363IA-Natural%20Language%20processing%20and%20transformers(NLP))|NLP Playlist [🔗](https://youtube.com/playlist?list=PLhwvOw9qAuDd-OcgkCRu8e_HlLssWgvtJ&si=fb0R4oLTTEAou29Z)|
 |3|Cloud Computing technology and architectures|AI364TA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI364TA-Cloud%20Computing%20Technology%20%26%20Architectures)|-|
 |4|Generative Artificial Intelligence(Gen AI)|AI365TDD|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI365TDD-Generative%20Artificial%20Intelligence(GenAI))|-|
+#### Only for CS
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
+|-|-|-|-|
+|1|Network Programming and Security(NPS)|CS362IA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/NPS)|
+### Professional Electives
+#### Only for AI,CS,IS and CD
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
+|-|-|-|-|
+|1|Generative Artificial Intelligence(Gen AI)|AI365TDD|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/AI365TDD-Generative%20Artificial%20Intelligence(GenAI))|
+#### Only for CS
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
+|-|-|-|-|
+|1|Cryptography and Network Security(CNS)|AI255TBA|[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Crypto(CNS))
+
+
 ### Institutional Electives
 |**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
