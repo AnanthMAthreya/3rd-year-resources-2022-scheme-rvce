@@ -65,7 +65,7 @@ For the study material for a few courses of nptel, [click here](https://github.c
 #### Only for CS, CD, CY and IS
 |**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
-|1|Software Engineering With Agile Technologies|IS364TA|<ul><li>[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE)) Only for units-1,2,3,5(Only first topic in the syllabus. The sub-units in the repo for each units may vary, so please cross-verify with the syllabus of AISE for AIML branch)</li><li>[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Software%20Engineering%20with%20Agile%20Methodologies%20) Only for units-1,2,4,5, and question papers</li></ul>|
+|1|Software Engineering With Agile Technologies|IS364TA|<ul><li>[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/5th%20sem/AI255TBA-Artificial%20Intelligence%20Integrated%20Software%20Engineering(AISE)) Only for units-1,2,3,5(Only first topic in the syllabus. The sub-units in the repo for each units may vary, so please cross-verify with the syllabus of AISE for AIML branch)</li><li>[🔗](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce/tree/main/6th%20sem/Software%20Engineering%20with%20Agile%20Methodologies) Only for units-1,2,4,5, and question papers</li></ul>|
 #### Only for CS, IS
 |**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
